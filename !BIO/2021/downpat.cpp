@@ -42,58 +42,41 @@ bool ispat(string s)
 
 int main()
 {
-    // string s1, s2;
-    // cin >> s1 >> s2;
-    // string s3 = s1;
-    // s3 += s2;
+    string s1, s2;
+    cin >> s1 >> s2;
+    string s3 = s1;
+    s3 += s2;
 
-    // string s1;
-    // while (cin >> s1)
-    // {
-    //     cout << ispat(s1) << "\n";
-    // };
-
-    // if (ispat(s1))
-    // {
-    //     cout << "YES\n";
-    // }
-    // else
-    // {
-    //     cout << "NO\n";
-    // }
-
-    // if (ispat(s2))
-    // {
-    //     cout << "YES\n";
-    // }
-    // else
-    // {
-    //     cout << "NO\n";
-    // }
-
-    // if (ispat(s3))
-    // {
-    //     cout << "YES\n";
-    // }
-    // else
-    // {
-    //     cout << "NO\n";
-    // }
-
-    // string s1 = "ABCD";
-    // do
-    // {
-    //     if (ispat(s1))
-    //     {
-    //         cout << "YES: " << s1 << endl;
-    //     }
-    // } while (next_permutation(s1.begin(), s1.end()));
-
-    string s1 = "BACDEFGHIJKLMNOPQRSTUVWXYZ";
-    int total = 0;
-    do
+    string s1;
+    while (cin >> s1)
     {
-        total += ispat(s1);
-    } while (next_permutation(s1.begin(), s1.end()));
-    cout << total;
+        cout << ispat(s1) << "\n";
+    };
+
+    if (ispat(s1))
+    {
+        cout << "YES\n";
+    }
+    else
+    {
+        cout << "NO\n";
+    }
+
+    if (ispat(s2))
+    {
+        cout << "YES\n";
+    }
+    else
+    {
+        cout << "NO\n";
+    }
+
+    if (ispat(s3))
+    {
+        cout << "YES\n";
+    }
+    else
+    {
+        cout << "NO\n";
+    }
 }
