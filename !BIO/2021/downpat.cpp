@@ -47,12 +47,6 @@ int main()
     string s3 = s1;
     s3 += s2;
 
-    string s1;
-    while (cin >> s1)
-    {
-        cout << ispat(s1) << "\n";
-    };
-
     if (ispat(s1))
     {
         cout << "YES\n";
