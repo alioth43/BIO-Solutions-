@@ -26,10 +26,10 @@ Work in progress.
 | 2004     | [✅](https://github.com/alioth43/BIO-Solutions-/blob/main/!BIO/2000s/2004/isbn.cpp)      | ❌      | ❌      |
 | 2003     | [✅](https://github.com/alioth43/BIO-Solutions-/blob/main/!BIO/2000s/2003/lojban.cpp)      | ❌      | ❌      |
 | 2002     | [✅](https://github.com/alioth43/BIO-Solutions-/blob/main/!BIO/2000s/2002/friendgame.cpp)      | ❌      | ❌      |
-| 2001     | ❌      | ❌      | ❌      |
-| 2000     | ❌      | ❌      | ❌      |
-| 1999     | ❌      | ❌      | ❌      |
-| 1998     | ❌      | ❌      | ❌      |
-| 1997     | ❌      | ❌      | ❌      |
-| 1996     | ❌      | ❌      | ❌      |
-| 1995     | ❌      | ❌      | ❌      |
+| [2001](https://olympiad.org.uk/papers/2001/bio/round_one.html)     | ❌      | ❌      | ❌      |
+| [2000](https://olympiad.org.uk/papers/2000/bio/round_one.html)     | ❌      | ❌      | ❌      |
+| [1999](https://olympiad.org.uk/papers/1999/bio/round_one.html)     | ❌      | ❌      | ❌      |
+| [1998](https://olympiad.org.uk/papers/1998/bio/round_one.html)     | ❌      | ❌      | ❌      |
+| [1997](https://olympiad.org.uk/papers/1997/bio/round_one.html)     | ❌      | ❌      | ❌      |
+| [1996](https://olympiad.org.uk/papers/1996/bio/bio96_r1.html)     | ❌      | ❌      | ❌      |
+| [1995](https://olympiad.org.uk/papers/1995/bio/index.html)     | ❌      | ❌      | ❌      |
