@@ -1,8 +1,9 @@
 # BIO-Solutions-
-Some of my own solutions to British Informatics Olympiad problems in C++. Not all of them are done/completed. There will probably be many possible efficiency improvements too.
+Some of my own solutions to British Informatics Olympiad problems in C++. 
 
-Work in progress.
-
+N.B.
+1. Not all of them are done/completed. 
+2. There are many possible efficiency improvements.
 
 | **Year** | **Q1** | **Q2** | **Q3** |
 |----------|--------|--------|--------|
