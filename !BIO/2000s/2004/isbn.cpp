@@ -1,9 +1,5 @@
 // https://olympiad.org.uk/papers/2003/bio/bio03ex.pdf
 
-// 1a: 24/24
-// 1b: 2/2
-// 1c: Not Attempted 35 mins left.
-
 #include <bits/stdc++.h>
 using namespace std;
 
