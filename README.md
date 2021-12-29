@@ -18,9 +18,9 @@ Work in progress.
 | [2012](https://olympiad.org.uk/papers/2012/bio/bio12-exam.pdf)     | [✅](https://github.com/alioth43/BIO-Solutions-/blob/main/!BIO/2010s/2012/primefac.cpp)      | ❌      | ❌      |
 | [2011](https://olympiad.org.uk/papers/2011/bio/bio2011-Round1-Exam.pdf)     | [✅](https://github.com/alioth43/BIO-Solutions-/blob/main/!BIO/2010s/2011/fibletters.cpp)      | ❌      | ❌      |
 | [2010](https://olympiad.org.uk/papers/2010/bio/bio-10-exam.pdf)     | ❌      | ❌      | ❌      |
-| 2009     | ❌      | ❌      | ❌      |
-| 2008     | ❌      | ❌      | ❌      |
-| 2007     | ❌      | ❌      | ❌      |
+| [2009](https://olympiad.org.uk/papers/2009/bio/bio09-exam.pdf)     | ❌      | ❌      | ❌      |
+| [2008](https://olympiad.org.uk/papers/2008/bio/bio08-exam.pdf)     | ❌      | ❌      | ❌      |
+| [2007](https://olympiad.org.uk/papers/2007/bio/bio07exam.pdf)     | ❌      | ❌      | ❌      |
 | 2006     | ❌      | ❌      | ❌      |
 | 2005     | ❌      | ❌      | ❌      |
 | 2004     | [✅](https://github.com/alioth43/BIO-Solutions-/blob/main/!BIO/2000s/2004/isbn.cpp)      | ❌      | ❌      |
