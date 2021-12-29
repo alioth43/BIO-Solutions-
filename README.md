@@ -1,4 +1,4 @@
-# BIO-Solutions-
+# BIO Solutions C++
 Some of my own solutions to British Informatics Olympiad problems in C++. 
 
 N.B.
