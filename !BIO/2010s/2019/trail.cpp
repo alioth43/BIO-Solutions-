@@ -35,7 +35,6 @@ void solve()
 
                     if (!seen.count({x, y + 1}))
                     {
-                        // cout << "MOVING FORWARD" << endl;
                         // facing north & square in front not on trail
                         newy = y + 1;
                         moved = true;
