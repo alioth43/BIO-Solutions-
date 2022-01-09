@@ -8,7 +8,7 @@ N.B.
 | **Year** | **Q1** | **Q2** | **Q3** |
 |----------|--------|--------|--------|
 | [2021](https://olympiad.org.uk/papers/2021/bio/bio21-exam.pdf)     | [✅](https://github.com/alioth43/BIO-Solutions-/blob/main/!BIO/2021/downpat.cpp)      | ❌      | ❌      |
-| [2020](https://olympiad.org.uk/papers/2020/bio/bio20-exam.pdf)     | ❌      | ❌      | ❌      |
+| [2020](https://olympiad.org.uk/papers/2020/bio/bio20-exam.pdf)     | [✅](https://github.com/alioth43/BIO-Solutions-/blob/main/!BIO/2020/numerals.cpp)      | ❌      | ❌      |
 | [2019](https://olympiad.org.uk/papers/2019/bio/bio19-exam.pdf)     | ❌      | ❌      | ❌      |
 | [2018](https://olympiad.org.uk/papers/2018/bio/bio18-exam.pdf)     | ❌      | [✅](https://github.com/alioth43/BIO-Solutions-/blob/main/!BIO/2010s/2018/ring.cpp)      | ❌      |
 | [2017](https://olympiad.org.uk/papers/2017/bio/bio17-exam.pdf)     | [✅](https://github.com/alioth43/BIO-Solutions-/blob/main/!BIO/2010s/2017/triangle.cpp)      | ❌      | ❌      |
